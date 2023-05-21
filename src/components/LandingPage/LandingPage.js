@@ -1,8 +1,9 @@
 import React from 'react';
+import HomeImage from '../../assets/HomeImage.png';
 
 const LandingPage = () => (
   <div>
-    <h2>Landing page image goes here</h2>
+    <img src={HomeImage} alt="Los Angeles Mountains" className="h-[90vh]" />
   </div>
 );
 
