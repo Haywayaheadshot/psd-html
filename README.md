@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [Arha Deals ](#arha-deals-)
+- [PSD to HTML ](#psd-to-html-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -23,32 +23,30 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Arha Deals <a name="about-project"></a>
+# PSD to HTML <a name="about-project"></a>
 
-**Arha-Deals** is a front-end e-commerce web application. It allows users browse through a collection of available products and reach the seller on whatsapp with details of the product when the user clicks a "Show Interest" button.
+**PSD-To-HTML** I converted a PSD file into a single page response site. The carousel is responsive. On mobile, the tabs are converted to an accordion. History, team - these are internal links in the page to their respective sections.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Developed using Vite.
+> Developed using React.
 <details>
   <summary>Languages</summary>
   <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://www.typescriptlang.org/">JavaScript</a></li>
     <li><a href="https://tailwindcss.com/">Tailwind CSS</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-- **Allowing browsing through available phones, and exclusive items**
-- **Added section to teach users simple phone hacks**
-- **Displayed time on the navigation**
+- **Shows history Los-Angeles mountain and team schedules viewing them**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://arha-deals.netlify.app/)
+- [Live Demo](psd-to-html-abubakar.netlify.app)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -66,8 +64,8 @@ Clone this repository to your desired folder:
 
 ``
 
-- To clone the repository run this command - "https://github.com/Haywayaheadshot/arha_deals.git"
-- cd arha_deals
+- To clone the repository run this command - "https://github.com/Haywayaheadshot/psd-html.git"
+- cd psd-html
 
 ``
 
@@ -87,7 +85,7 @@ To run the project, execute the following command:
 
 ``
 
-- npm run dev
+- npm start
 - npx tailwindcss -i ./src/styles/index.css -o ./dist/output.css --watch
   
 ``
@@ -108,13 +106,6 @@ To test a particular file.
 - npm test `File name.` (e.g npm test TechNews.test.tsx)
 
 ``
-To fix errors, run the following command:
-
-``
-
-- npm run lint-fix
-
-``
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -129,10 +120,7 @@ To fix errors, run the following command:
 
 > These are some of the future features we want to add.
 
-- [ ] ***Add mobile money payment system***
-- [ ] ***Recieve proucts from a database***
-- [ ] ***Add a signup button to allow users keep track of their purchases***
-- [ ] ***Add a favourite button to allow users favourite products***
+- [ ] ***Add more pages***
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -146,7 +134,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the knowledge impacted.
+Thank you for checking out my code.
 
 ## 📝 License <a name="license"></a>
 
