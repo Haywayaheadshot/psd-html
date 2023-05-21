@@ -46,7 +46,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](psd-to-html-abubakar.netlify.app)
+- [Live Demo](https://psd-to-html-abubakar.netlify.app/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
