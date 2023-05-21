@@ -1,6 +1,8 @@
+import LandingPage from './components/LandingPage/LandingPage';
+
 const App = () => (
   <div className="App">
-    <h2>PSD-HTML</h2>
+    <LandingPage />
   </div>
 );
 
